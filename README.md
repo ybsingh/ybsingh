@@ -25,5 +25,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 <div align="center">
-<p align="center">Have a good day! ❤️</p>
+<p align="center">
+  <b><i>
+  Have a good day! ❤️
+  </i></b>
+</p>
 <div>
