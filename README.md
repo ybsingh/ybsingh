@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Yogesh Singh
-- 👀 I’m interested in Node JS, Express JS, React JS, Mongo DB....
-- 🌱 I’m currently learning React in TypeScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - call me on +91 9650148101
 
-<!---
-ybsingh/ybsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi There, I am Yogesh Singh <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+I'm a **Software Developer** having 2+ years of experience, Experienced in the full stack development, graduated in **2019** from **Uttar Pradesh Technical University** in **Computer Science** stream. I am always eager to learn new technologies. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+
+
+## Skill Set :muscle:
+
+These are some of the major technologies that I use or have worked on in the past:
+
