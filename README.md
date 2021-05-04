@@ -3,25 +3,25 @@
 
 I'm a **Software Developer** having 2+ years of experience, Experienced in the full stack development, graduated in **2019** from **Uttar Pradesh Technical University** in **Computer Science** stream. I am always eager to learn new technologies. In my free time I like to watch animated movies, listening music and participate in online contests. I am open to collaborate on interesting projects.
 
-
-## Skill Set :muscle:
-
-These are some of the major technologies that I use or have worked on in the past:
-
 <p align="center">
 
 <img alt="efba logo" src="https://imgur.com/yr0sfsR.png" width="250px" />
 
 </p>
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" />
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+## Skill Set :muscle:
 
-<img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
+These are some of the major technologies that I use or have worked on in the past:
 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />|<img title="NodeJs" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>|<img title="ReactJs" alt="ReactJs" width="40px" src="https://img.icons8.com/bubbles/50/000000/react.png"/>|<img title="MongoDB" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>|<img  title="GraphQL" alt="GraphQL" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/>|<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+|--|--|--|--|--|--|
+<br>
 
-<img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+## Let's Connect :handshake:
+
+<a href="https://twitter.com/YogeshS96951123"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/profile.php?id=100049380649252"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="yogeshsingh201197@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/yogeshh.singh/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
+|--|--|--|--|
+<br>
+
