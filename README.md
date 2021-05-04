@@ -15,7 +15,7 @@ I'm a **Software Developer** having 2+ years of experience, Experienced in the f
 These are some of the major technologies that I use or have worked on in the past:
 
 
-<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" />|<img title="NodeJs" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>|<img title="ReactJs" alt="ReactJs" width="40px" src="https://img.icons8.com/bubbles/50/000000/react.png"/>|<img title="MongoDB" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>|<img  title="GraphQL" alt="GraphQL" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/>|<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" /></a>|<a href="https://nodejs.org/"><img title="NodeJs" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>|<a href="https://reactjs.org/"><img title="ReactJs" alt="ReactJs" width="40px" src="https://img.icons8.com/bubbles/50/000000/react.png"/></a>|<a href="https://www.mongodb.com/"><img title="MongoDB" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>|<a href="https://www.apollographql.com/"><img  title="GraphQL" alt="GraphQL" width="40px" src="https://img.icons8.com/color/48/000000/graphql.png"/></a>|<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 |--|--|--|--|--|--|
 <br>
 
